@@ -17,8 +17,8 @@
 
 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sankar2316046&theme=dark&show_icons=true&&hide=issues,contribs)
+![Sankar'S GitHub stats](https://github-readme-stats.vercel.app/api?username=Sankar2316046&theme=dark&show_icons=true&&hide=issues,contribs)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/0LTcTf8BIQ?theme=dark&font=Kulim%20Park&ext=heatmap)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sankar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sankar2316046&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
